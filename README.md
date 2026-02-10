@@ -1,4 +1,11 @@
 # CSSpring2026
+
+#Lab 1 
+
+Purpose
+This lab introduces you to working with floating-point and integer data types by combining user input, arithmetic operations, and formatted output. You will write a program that takes two numbers as floating-point inputs, performs arithmetic operations (addition, subtraction, multiplication, division) using floating-point calculations, and then converts the inputs to integers to demonstrate integer division. This lab emphasizes the differences between floating-point and integer arithmetic, reinforcing key programming concepts that are fundamental for understanding data types and numerical operations in programming.
+
+
 #C++ Lab: OSRS Magic Max Hit Table
 
 #lab 2
